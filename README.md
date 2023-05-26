@@ -13,6 +13,12 @@ Started to write about technical topics on your own blog, maybe a future writer.
 
 - 💼 &nbsp; Working as Senior Developer at Zup Innovation, a Brazilian company which is a hold of Itaú Unibanco.
 
+<br/>
+
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodolphoess&show_icons=true&count_private=true)](https://github.com/argentinaluiz)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodolphoess&layout=compact&langs_count=10&count_private=true&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3> 🤝🏻 Can we follow each other? </h3>
 
 <p align="center">

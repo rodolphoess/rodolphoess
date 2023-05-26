@@ -15,7 +15,7 @@ Started to write about technical topics on your own blog, maybe a future writer.
 
 <br/>
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodolphoess&show_icons=true&count_private=true)](https://github.com/argentinaluiz)
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodolphoess&show_icons=true&count_private=true)](https://github.com/rodolphoess)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodolphoess&layout=compact&langs_count=10&count_private=true&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 

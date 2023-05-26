@@ -1,6 +1,6 @@
 <h2> Hey, are you fine? I'm Rodolpho, you're welcome! 👋</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rodolphoess" alt="rodolphoess" /> </p>
+![](https://komarev.com/ghpvc/?username=rodolphoess)
 
 <h3> About me </h3>
 

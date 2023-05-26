@@ -11,6 +11,8 @@ Developing software using languages like:
 Java, Kotlin, Go, PHP and Python.
 Started to write about technical topics on your own blog, maybe a future writer.
 
+- 💼 &nbsp; Working as Senior Developer at Zup Innovation, a Brazilian company which is a hold of Itaú Unibanco.
+
 <h3> 🤝🏻 Can we follow each other? </h3>
 
 <p align="center">

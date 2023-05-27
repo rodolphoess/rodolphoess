@@ -22,7 +22,7 @@ Started to write about technical topics on your own blog, maybe a future writer.
 <h3> 🤝🏻 Can we follow each other? </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/rodolphoerick/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-rodolphoerick-blue?style=plastic&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/rodolphoess/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-rodolphoess-blue?style=plastic&logo=linkedin"></a>
 <a href="https://www.instagram.com/rodolphoess/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-rodolphoess-blue?style=plastic&logo=instagram"></a>
 <a href="https://twitter.com/RodolphoErick_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-RodolphoErick__-blue?style=plastic&logo=twitter"></a>
 </p>
